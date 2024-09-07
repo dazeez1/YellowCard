@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+body {
+    background: black;
+}
+
 .dropdown {
     position: relative;
     display: inline-block;
